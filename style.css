@@ -1,0 +1,16 @@
+body{
+    background-image: url(./3f7480b8d3fc276b467e3fa3daf37b65.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+button{
+    padding: 2vh;
+    background-color: aqua;
+    n=
+}
